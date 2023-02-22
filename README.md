@@ -1,7 +1,8 @@
 # youtube-script-writing-2-
 YouTubeなどの台本を書くときに使うソフトです！
 
-使い方は前のhttps://github.com/marukino/youtube-script-writing-software　と全く同じなので変更点だけここに書いておきます。
+使い方は前のhttps://github.com/marukino/youtube-script-writing-software　
+と全く同じなので変更点だけここに書いておきます。
 
 変更点
 ・ソフト制作の時のそもそものプロジェクトを変更しました。(つまり旧バージョンと新バージョンでは互換性が全くありません)
