@@ -1,4 +1,4 @@
-# youtube-script-writing-2-
+
 YouTubeなどの台本を書くときに使うソフトです！
 
 使い方は前のhttps://github.com/marukino/youtube-script-writing-software
